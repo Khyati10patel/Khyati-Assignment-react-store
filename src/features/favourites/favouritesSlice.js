@@ -1,3 +1,4 @@
+//favouritesSlice.js
 import { createSlice } from "@reduxjs/toolkit";
 
 const favouritesSlice = createSlice({
